@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Samrt_Lock
+
+  Created by haitao on 16/5/23.
+  Copyright © 2016年 haitao. All rights reserved.
+*/
+
+//蓝牙
+"BLE" = "蓝牙";
+"Search_Device" = "搜索设备";
+"Query_State" = "查询状态";
+"Open_Lock" = "开锁";//公有
+"State_of_the_Lock" = "锁的状态";
+"Lock_Opened" = "锁已开";
+"Locked_Lock" = "已上锁";
+
+//WiFi
+"WIFI" = "WIFI";
+"Configure_wifi" = "开始配置";
+"Connect" = "连接";
+"wifiName" = "Wifi账号";
+"password" = "密码";
+"UnConnect" = "未连接";
+"Could't_Connect" = "未能连接服务";
+"input_Wifi_info" = "输入wifi信息";
+
+//状态
+"DisConnectAnyDevice" = "蓝牙设备不存在或连接失败";
+"Connecting" = "连接中...";
+"AutoConnecting" = "自动连接中...";
+"connect_Successfully" = "连接成功";
+"DeviceList" = "设备列表";
+
+"取消" = "取消";
+"修改设备密码" = "修改设备密码";
+"删除设备" = "删除设备";
+"请输入密码" = "请输入密码";
+"确定" = "确定";
+"请输入别名" = "请输入别名";
+"修改别名" = "修改别名";
+"请输入六位密码" = "请输入六位密码";
+
+"出错" = "出错";
+"配置成功" = "配置成功";
+"提示" = "提示";
+"请连接WiFi" = "请连接WiFi";
+"配置中..." = "配置中...";
+"配置失败" = "配置失败";
+
+"显示密码" = "显示密码";
+"修改本地密码" = "修改本地密码";
+"修改成功" = "修改成功";
+"通讯密码有误" = "通讯密码有误";
+
+"未配对" = "未配对";
+"配对" = "配对";
+"没有连接权限" = "没有连接权限";
+//状态
+"wifi连接失败" = "wifi不存在或连接失败";
+
+

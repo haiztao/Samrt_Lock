@@ -1,0 +1,60 @@
+/* 
+  Localizable.strings
+  Samrt_Lock
+
+  Created by haitao on 16/5/23.
+  Copyright © 2016年 haitao. All rights reserved.
+*/
+
+//蓝牙
+"BLE" = "Bluetooth";
+"Search_Device" = "Search Device";
+"Query_State" = "Query state of the Lock";
+"Open_Lock" = "Open the Lock";//公有
+"State_of_the_Lock" = "State of the Lock";
+"Lock_Opened" = "Lock has been open";
+"Locked_Lock" = "Has been locked";
+
+//WiFi
+"WIFI" = "WIFI";
+"Configure_wifi" = "Start the configuration";
+"Connect" = "Connect";
+"wifiName" = "WifiName";
+"password" = "Password";
+"UnConnect" = "UnConnect";
+"Could't_Connect" = "Could't Connect Server";
+"input_Wifi_info" = "Input wifi info";
+
+//状态
+"DisConnectAnyDevice" = "Bluetooth does not exist or the connection fails";
+"Connecting" = "Connecting...";
+"AutoConnecting" = "Auto Connecting...";
+"connect_Successfully" = "Connect Successfully";
+"DeviceList" = "Device List";
+
+"取消" = "Cancel";
+"修改设备密码" = "Modify the device password";
+"删除设备" = "Remove equipment";
+"请输入密码" = "Please enter password";
+"确定" = "OK";
+"请输入别名" = "Please enter the alias";
+"修改别名" = "Modify the alias";
+"请输入六位密码" = "Please enter a six bit password";
+
+"出错" = "error";
+"配置成功" = "Configuration is successful";
+"提示" = "Prompt";
+"请连接WiFi" = "Please connect wifi";
+"配置中..." = "Configuring...";
+"配置失败" = "Configuration failed";
+
+
+"显示密码" = "Show the password";
+"修改本地密码" = "Modify the local password";
+"修改成功" = "Successful modification";
+"通讯密码有误" = "Communication password mistake";
+
+"未配对" = "Unpaired";
+"配对" = "Pair";
+"没有连接权限" = "No permissions to connectDevice";
+"wifi连接失败" = "Wifi does not exist or the connection fails";
